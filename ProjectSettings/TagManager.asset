@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Scripts
+  - LocalPlayer
+  - MAP
+  - Collectable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Map
+  - Water
+  - UI
+  - PlayerGraph
+  - FPS
+  - Player
+  - PostProcessing
+  - MiniMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 1345317633
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 1521491401
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 3200979737
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 3665113407
+    locked: 0
